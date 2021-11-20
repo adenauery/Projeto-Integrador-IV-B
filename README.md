@@ -14,8 +14,8 @@
 ## Procedimento Exigido para a Entrega Final
 
 ### Instalando o Servidor OpenLDAP e uma Interface Web de Gerência
-* [Tutorial em Portugues para instalar o OpenLDAP e o phpLDAPadmin](https://www.zentica-global.com/pt/zentica-blog/ver/como-instalar-openldap-e-phpldapadmin-no-ubuntu-server-20.04-60737ebe0b7a3)
-* [Tutorial em Inglês para Instalação do OpenLDAP e do phpLDAPadmin](https://idroot.us/install-openldap-ubuntu-20-04/)
+* [Tutorial em Portugues para instalar o OpenLDAP e a Interface de Gerência phpLDAPadmin](https://www.zentica-global.com/pt/zentica-blog/ver/como-instalar-openldap-e-phpldapadmin-no-ubuntu-server-20.04-60737ebe0b7a3)
+* [Tutorial em Inglês para Instalação do OpenLDAP e a Interface de Gerência phpLDAPadmin](https://idroot.us/install-openldap-ubuntu-20-04/)
 
 #### Outra Interface de Gerência Web
 * [LDAP Account Manager](https://computingforgeeks.com/install-and-configure-ldap-account-manager-on-ubuntu/)
