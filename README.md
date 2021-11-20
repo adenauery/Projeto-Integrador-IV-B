@@ -1,15 +1,23 @@
 # Projeto-Integrador-IV-B
 
-## Procedimentos Exigidos para a Entrega Final
+## Procedimento Exigido para Entrega Parcial
 
 ### Introdução ao LDAP
 * [Material Organizado por Ronaldo Cunha - G3PD](http://olaria.ucpel.edu.br/rcunha/)
 
-### Instalando o OpenLDAP - Servidor
+### Instalação de uma Máquina Virtual
+* Procedimentos utilizados
+* Ambiente de virtualização
+* Distribuição empregada para criação da Máquina Virtual
+* Configuração empregada na Máquina Virtual
+
+## Procedimento Exigido para a Entrega Final
+
+### Instalando o Servidor OpenLDAP e uma Interface Web de Gerência
 * [Tutorial em Portugues para instalar o OpenLDAP e o phpLDAPadmin](https://www.zentica-global.com/pt/zentica-blog/ver/como-instalar-openldap-e-phpldapadmin-no-ubuntu-server-20.04-60737ebe0b7a3)
 * [Tutorial em Inglês para Instalação do OpenLDAP e do phpLDAPadmin](https://idroot.us/install-openldap-ubuntu-20-04/)
 
-## Informações Adicionais
+## Informações Adicionais Cujos Procedimentos Não Serão Cobrados nas Entregas
 
 ### Instalando o OpenLDAP - Cliente
 * [Configure Linux Clients To Authenticate Using OpenLDAP](https://www.unixmen.com/configure-linux-clients-to-authenticate-using-openldap/)
@@ -33,7 +41,7 @@
    * sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 80 -j ACCEPT
    * sudo netfilter-persistent save
    * sudo systemctl restart apache2
-
+ 
 ### Provedores de IAAS em Cloud
 * https://www.cloudatcost.com/
  
