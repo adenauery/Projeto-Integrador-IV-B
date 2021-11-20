@@ -1,9 +1,7 @@
 # Projeto-Integrador-IV-B
 
-### Utilizando Equipamentos em Nuvem
-* [Plataforma da Oracle](https://www.oracle.com/br/index.html)
-* [O que é gratuito na Plataforma da Oracle](https://www.oracle.com/br/cloud/free/#always-free)
-* [Exemplo de como abrir portas em uma VM na nuvem da Oracle](https://docs.oracle.com/en/learn/lab_compute_instance/index.html#introduction)
+### Introdução ao LDAP
+* [Material Organizado por Ronaldo Cunha - G3PD](http://olaria.ucpel.edu.br/rcunha/)
 
 ### LDAP em Nuvem
 * [jumpcloud](https://jumpcloud.com/)
@@ -14,3 +12,8 @@
 
 ### Instalando o OpenLDAP - Cliente
 * [Configure Linux Clients To Authenticate Using OpenLDAP](https://www.unixmen.com/configure-linux-clients-to-authenticate-using-openldap/)
+
+### Utilizando Equipamentos em Nuvem
+* [Plataforma da Oracle](https://www.oracle.com/br/index.html)
+* [O que é gratuito na Plataforma da Oracle](https://www.oracle.com/br/cloud/free/#always-free)
+* [Exemplo de como abrir portas em uma VM na nuvem da Oracle](https://docs.oracle.com/en/learn/lab_compute_instance/index.html#introduction)
