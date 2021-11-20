@@ -23,6 +23,8 @@
   * chmod 400 <chave privada>
 * comando para acessar a Máquina Virtual:
   * ssh -i /Users/adenauer/Desktop/Chaves-Oracle/<chave privada> ubuntu@152.70.223.181 -p 22
+* liberar o acesso por password, utilize o tutorial abaixo:
+  * https://www.simplified.guide/ssh/disable-password-authentication
 
 ### Provedores de IAAS em Cloud
 * https://www.cloudatcost.com/
