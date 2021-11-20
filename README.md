@@ -15,6 +15,7 @@
 
 ### Utilizando Equipamentos em Nuvem
 * [Plataforma da Oracle](https://www.oracle.com/br/index.html)
+* https://www.oracle.com/br/cloud/free/?source=:ow:o:h:feb::OHPpn1030&intcmp=:ow:o:h:feb::OHPpn1030
 * [O que é gratuito na Plataforma da Oracle](https://www.oracle.com/br/cloud/free/#always-free)
 * [Exemplo de como abrir portas em uma VM na nuvem da Oracle](https://docs.oracle.com/en/learn/lab_compute_instance/index.html#introduction)
 #### Procedimentos após a ativação da Máquina Virtual
