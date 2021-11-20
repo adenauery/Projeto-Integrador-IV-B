@@ -26,6 +26,12 @@
   * ssh -i /Users/adenauer/Desktop/Chaves-Oracle/<chave privada> ubuntu@152.70.223.181 -p 22
 * liberar o acesso por password, utilize o tutorial abaixo:
   * https://www.simplified.guide/ssh/disable-password-authentication
+* Liberando acesso a porta 80 (HTTP) em Instancias (VMs) do Oracle Cloud:
+ * Ajustar na Virtual Cloud Networks o acesso a porta 80
+ * Liberar o acesso a porta 80 na Firewal
+   * sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 80 -j ACCEPT
+   * sudo netfilter-persistent save
+   * sudo systemctl restart apache2
 
 ### Provedores de IAAS em Cloud
 * https://www.cloudatcost.com/
