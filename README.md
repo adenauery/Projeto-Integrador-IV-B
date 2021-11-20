@@ -28,7 +28,7 @@
   * https://www.simplified.guide/ssh/disable-password-authentication
 * Liberando acesso a porta 80 (HTTP) em Instancias (VMs) do Oracle Cloud:
  * Ajustar na Virtual Cloud Networks o acesso a porta 80
- * Liberar o acesso a porta 80 na Firewal
+ * Liberar o acesso a porta 80 na Firewal [fonte](https://stackoverflow.com/questions/54794217/opening-port-80-on-oracle-cloud-infrastructure-compute-node)
    * sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 80 -j ACCEPT
    * sudo netfilter-persistent save
    * sudo systemctl restart apache2
