@@ -18,9 +18,9 @@
 * [Tutorial em Inglês para Instalação do OpenLDAP e do phpLDAPadmin](https://idroot.us/install-openldap-ubuntu-20-04/)
 
 ## Servidor de Teste:
-URL: http://152.70.223.181/phpldapadmin/
-Username: cn=admin,dc=projeto,dc=integrador,dc=br
-Password: <divulgada por email>
+* URL: http://152.70.223.181/phpldapadmin/
+* Username: cn=admin,dc=projeto,dc=integrador,dc=br
+* Password: <divulgada por email>
 
 
 ## Informações Adicionais Cujos Procedimentos Não Serão Cobrados nas Entregas
