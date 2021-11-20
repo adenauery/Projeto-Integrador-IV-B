@@ -3,9 +3,6 @@
 ### Introdução ao LDAP
 * [Material Organizado por Ronaldo Cunha - G3PD](http://olaria.ucpel.edu.br/rcunha/)
 
-### LDAP em Nuvem
-* [jumpcloud](https://jumpcloud.com/)
-
 ### Instalando o OpenLDAP - Servidor
 * [Tutorial em Portugues para instalar o OpenLDAP e o phpLDAPadmin](https://www.zentica-global.com/pt/zentica-blog/ver/como-instalar-openldap-e-phpldapadmin-no-ubuntu-server-20.04-60737ebe0b7a3)
 * [Tutorial para Instalação do OpenLDAP e do phpLDAPadmin](https://idroot.us/install-openldap-ubuntu-20-04/)
@@ -35,3 +32,6 @@
 
 ### Provedores de IAAS em Cloud
 * https://www.cloudatcost.com/
+ 
+### LDAP em Nuvem
+* [jumpcloud](https://jumpcloud.com/)
