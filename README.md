@@ -17,6 +17,11 @@
 * [Plataforma da Oracle](https://www.oracle.com/br/index.html)
 * [O que é gratuito na Plataforma da Oracle](https://www.oracle.com/br/cloud/free/#always-free)
 * [Exemplo de como abrir portas em uma VM na nuvem da Oracle](https://docs.oracle.com/en/learn/lab_compute_instance/index.html#introduction)
+#### Procedimentos após a ativação da Máquina Virtual
+* Fazer Download da Chave Privada
+* Trocar as permissões da Chave Privada para 400 (chmod 400 <chave privada>
+* comando para acessar a Máquina Virtual:
+  * ssh -i /Users/adenauer/Desktop/Chaves-Oracle/Projeto-Integrador.key ubuntu@152.70.223.181 -p 22
 
 ### Provedores de IAAS em Cloud
 * https://www.cloudatcost.com/
