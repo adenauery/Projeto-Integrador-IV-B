@@ -17,6 +17,12 @@
 * [Tutorial em Portugues para instalar o OpenLDAP e o phpLDAPadmin](https://www.zentica-global.com/pt/zentica-blog/ver/como-instalar-openldap-e-phpldapadmin-no-ubuntu-server-20.04-60737ebe0b7a3)
 * [Tutorial em Inglês para Instalação do OpenLDAP e do phpLDAPadmin](https://idroot.us/install-openldap-ubuntu-20-04/)
 
+## Servidor de Teste:
+URL: http://152.70.223.181/phpldapadmin/
+Username: cn=admin,dc=projeto,dc=integrador,dc=br
+Password: <divulgada por email>
+
+
 ## Informações Adicionais Cujos Procedimentos Não Serão Cobrados nas Entregas
 
 ### Instalando o OpenLDAP - Cliente
