@@ -27,7 +27,7 @@
 ## Servidor de Teste:
 * URL: http://152.70.223.181/phpldapadmin/
 * Username: cn=admin,dc=projeto,dc=integrador,dc=br
-* Password: <divulgada por email>
+* Password: **enviada por email**
 
 
 ## Informações Adicionais Cujos Procedimentos Não Serão Cobrados nas Entregas
