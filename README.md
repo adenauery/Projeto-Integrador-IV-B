@@ -1,6 +1,8 @@
 # Projeto-Integrador-IV-B
 
-**Professores Responsáveis:**
+**Professores Responsáveis**
+
+Emails para contato:
 * Alexandra Zimpeck - alexandra.zimpeck at ucpel.edu.br 
 * Adenauer Yamin - adenauer.yamin at ucpel.edu.br
 
