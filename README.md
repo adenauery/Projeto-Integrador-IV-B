@@ -1,8 +1,12 @@
 # Projeto-Integrador-IV-B
 
+**Professores Responsáveis:**
+* Alexandra Zimpeck - alexandra.zimpeck at ucpel.edu.br 
+* Adenauer Yamin - adenauer.yamin at ucpel.edu.br
+
 ## Procedimento Exigido para Entrega Parcial
 
-### Introdução ao LDAP
+### Introdução ao LDAP, material de auxílio elaborado por bolsista do G3PD
 * [Material Organizado por Ronaldo Cunha - G3PD](http://olaria.ucpel.edu.br/rcunha/)
 
 ### Instalação de uma Máquina Virtual
@@ -17,7 +21,7 @@
 * [Tutorial em Portugues para instalar o OpenLDAP e a Interface de Gerência phpLDAPadmin](https://www.zentica-global.com/pt/zentica-blog/ver/como-instalar-openldap-e-phpldapadmin-no-ubuntu-server-20.04-60737ebe0b7a3)
 * [Tutorial em Inglês para Instalação do OpenLDAP e a Interface de Gerência phpLDAPadmin](https://idroot.us/install-openldap-ubuntu-20-04/)
 
-#### Outra Interface de Gerência Web
+#### Opção de Interface para Gerência Web do OpenLDAP
 * [LDAP Account Manager](https://computingforgeeks.com/install-and-configure-ldap-account-manager-on-ubuntu/)
 
 ## Servidor de Teste:
