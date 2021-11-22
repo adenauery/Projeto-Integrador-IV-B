@@ -58,6 +58,7 @@ Emails para contato:
  
 ### Provedores de IAAS em Cloud
 * https://www.cloudatcost.com/
+* https://www.oracle.com/
  
 ### LDAP em Nuvem
 * [jumpcloud](https://jumpcloud.com/)
