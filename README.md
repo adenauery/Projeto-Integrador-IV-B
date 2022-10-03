@@ -30,8 +30,8 @@ Emails para contato:
 #### Opção de Interface para Gerência Web do OpenLDAP
 * [LDAP Account Manager](https://computingforgeeks.com/install-and-configure-ldap-account-manager-on-ubuntu/)
 
-## Servidor de Teste:
-* URL: http://152.70.223.181/phpldapadmin/
+## Servidor de Teste: (aguardar definição)
+* URL: http://9.9.9.9/phpldapadmin/
 * Username: cn=admin,dc=projeto,dc=integrador,dc=br
 * Password: **enviada por email**
 
