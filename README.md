@@ -15,7 +15,7 @@ Emails para contato:
 
 ## Procedimento Exigido para a Entrega Final
 
-### Instalando o Servidor OpenLDAP e uma Interface Web de Gerência
+#### Instalando o Servidor OpenLDAP e uma Interface Web de Gerência
 * [Tutorial em Portugues para instalar o OpenLDAP e a Interface de Gerência phpLDAPadmin](https://www.zentica-global.com/pt/zentica-blog/ver/como-instalar-openldap-e-phpldapadmin-no-ubuntu-server-20.04-60737ebe0b7a3)
 * [Tutorial em Inglês para Instalação do OpenLDAP e a Interface de Gerência phpLDAPadmin](https://idroot.us/install-openldap-ubuntu-20-04/)
 
@@ -26,13 +26,13 @@ Emails para contato:
 #### Opção de Interface para Gerência Web do OpenLDAP
 * [LDAP Account Manager](https://computingforgeeks.com/install-and-configure-ldap-account-manager-on-ubuntu/)
 
+
+#### Outras Informações Referentes ao Projeto Integrador (Não Serão Cobradas nas Entregas)
+
 ## Servidor de Teste: (aguardar definição)
 * URL: http://9.9.9.9/phpldapadmin/
 * Username: cn=admin,dc=projeto,dc=integrador,dc=br
 * Password: **enviada por email**
-
-
-## Informações Adicionais Cujos Procedimentos Não Serão Cobrados nas Entregas
 
 ### Instalando o OpenLDAP - Cliente
 * [Configure Linux Clients To Authenticate Using OpenLDAP](https://www.unixmen.com/configure-linux-clients-to-authenticate-using-openldap/)
