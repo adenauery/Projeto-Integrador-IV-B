@@ -27,20 +27,21 @@ Emails para contato:
 * [LDAP Account Manager](https://computingforgeeks.com/install-and-configure-ldap-account-manager-on-ubuntu/)
 
 
-#### Outras Informações Referentes ao Projeto Integrador (Não Serão Cobradas nas Entregas)
+## Outras Informações Referentes ao Projeto Integrador (Não Serão Cobradas nas Entregas)
 
-## Servidor de Teste: (aguardar definição)
+#### Servidor de Teste: (aguardar definição)
 * URL: http://9.9.9.9/phpldapadmin/
 * Username: cn=admin,dc=projeto,dc=integrador,dc=br
 * Password: **enviada por email**
 
-### Instalando o OpenLDAP - Cliente
+#### Instalando o OpenLDAP - Cliente
 * [Configure Linux Clients To Authenticate Using OpenLDAP](https://www.unixmen.com/configure-linux-clients-to-authenticate-using-openldap/)
 
-### Utilizando Equipamentos em Nuvem
+#### Utilizando Equipamentos em Nuvem
 * [Plataforma da Oracle](https://www.oracle.com/br/index.html)
 * [O que é gratuito na Plataforma da Oracle](https://www.oracle.com/br/cloud/free/#always-free)
 * [Exemplo de como abrir portas em uma VM na nuvem da Oracle](https://docs.oracle.com/en/learn/lab_compute_instance/index.html#introduction)
+
 #### Procedimentos após a ativação da Máquina Virtual
 * Fazer Download da Chave Privada
 * Comando trocar as permissões da Chave Privada para 400 
@@ -56,12 +57,12 @@ Emails para contato:
    * sudo netfilter-persistent save
    * sudo systemctl restart apache2
  
-### Provedores de IAAS em Cloud
+#### Provedores de IAAS em Cloud
 * https://www.cloudatcost.com/
 * https://www.oracle.com/
  
-### LDAP em Nuvem
+#### LDAP em Nuvem
 * [jumpcloud](https://jumpcloud.com/)
 
- ### Introdução ao LDAP por Bolsista do G3PD
+ #### Introdução ao LDAP por Bolsista do G3PD
  * [Material Organizado por Ronaldo Cunha - Bolsisa G3PD](http://olaria.ucpel.edu.br/rcunha/)
