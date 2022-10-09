@@ -1,7 +1,7 @@
 # Projeto-Integrador-IV-B
 
 **Professores Responsáveis**
-* [Victoria Souto](victoria.souto@ucpel.edu.br)
+* [Victoria Souto](mailto:victoria.souto@ucpel.edu.br)
 * [Adenauer Yamin](adenauer.yamin@ucpel.edu.br)
 
 ## Procedimento Exigido para Entrega Parcial
