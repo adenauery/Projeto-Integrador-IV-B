@@ -8,10 +8,12 @@ Emails para contato:
 
 ## Procedimento Exigido para Entrega Parcial
 
-### Introdução ao LDAP, material de auxílio elaborado por bolsista do G3PD
-* [Material Organizado por Ronaldo Cunha - G3PD](http://olaria.ucpel.edu.br/rcunha/)
+#### Conceitos referentes ao LDAP e Instalação de Máquina Virtual
 
-### Instalação de uma Máquina Virtual
+* [Material Organizado pela Profa. Victoria Souto](https://drive.google.com/drive/folders/151NHlJMR3eQ3VoWck3obb7J0mXuJMJrF)
+* [Material Organizado por Ronaldo Cunha - Bolsisa G3PD](http://olaria.ucpel.edu.br/rcunha/)
+
+#### Instalação de uma Máquina Virtual
 * Procedimentos utilizados
 * Ambiente de virtualização
 * Distribuição empregada para criação da Máquina Virtual
