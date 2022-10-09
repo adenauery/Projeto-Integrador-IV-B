@@ -2,7 +2,7 @@
 
 **Professores Responsáveis**
 * [Victoria Souto](mailto:victoria.souto@ucpel.edu.br)
-* [Adenauer Yamin](adenauer.yamin@ucpel.edu.br)
+* [Adenauer Yamin](mailto:adenauer.yamin@ucpel.edu.br)
 
 ## Procedimento Exigido para Entrega Parcial
 
