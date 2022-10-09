@@ -11,13 +11,7 @@ Emails para contato:
 #### Conceitos referentes ao LDAP e Instalação de Máquina Virtual
 
 * [Material Organizado pela Profa. Victoria Souto](https://drive.google.com/drive/folders/151NHlJMR3eQ3VoWck3obb7J0mXuJMJrF)
-* [Material Organizado por Ronaldo Cunha - Bolsisa G3PD](http://olaria.ucpel.edu.br/rcunha/)
 
-#### Instalação de uma Máquina Virtual
-* Procedimentos utilizados
-* Ambiente de virtualização
-* Distribuição empregada para criação da Máquina Virtual
-* Configuração empregada na Máquina Virtual
 
 ## Procedimento Exigido para a Entrega Final
 
@@ -68,3 +62,6 @@ Emails para contato:
  
 ### LDAP em Nuvem
 * [jumpcloud](https://jumpcloud.com/)
+
+ ### Introdução ao LDAP por Bolsista do G3PD
+ * [Material Organizado por Ronaldo Cunha - Bolsisa G3PD](http://olaria.ucpel.edu.br/rcunha/)
