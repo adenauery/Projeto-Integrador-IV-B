@@ -54,6 +54,13 @@
    * sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 80 -j ACCEPT
    * sudo netfilter-persistent save
    * sudo systemctl restart apache2
+   
+ * https://comunidade.gerenciandoweb.com.br/t/comando-para-gerenciar-uma-instancia-para-sempre-gratis-na-oracle-cloud/1622   
+   * sudo apt-get update
+   * sudo apt install firewalld
+   * sudo firewall-cmd --zone=public --permanent --add-port=PORTA/tcp
+   * sudo firewall-cmd --reload
+   * sudo firewall-cmd --zone=public --list-ports
  
 #### Provedores de IAAS em Cloud
 * https://www.cloudatcost.com/
