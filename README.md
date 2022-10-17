@@ -6,7 +6,7 @@
 
 ## Procedimento Exigido para Entrega Parcial
 
-#### Conceitos referentes ao LDAP e Instalação de Máquina Virtual
+#### Conceitos referentes ao LDAP e Instalação das Máquinas Virtuais
 
 * [Material Organizado pela Profa. Victoria Souto](https://drive.google.com/drive/folders/151NHlJMR3eQ3VoWck3obb7J0mXuJMJrF)
 
