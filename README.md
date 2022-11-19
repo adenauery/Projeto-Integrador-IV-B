@@ -75,5 +75,6 @@
 #### LDAP em Nuvem
 * [jumpcloud](https://jumpcloud.com/)
 
- #### Introdução ao LDAP por Bolsista do G3PD
+ #### Materiais sobre LDAP
  * [Material Organizado por Ronaldo Cunha - Bolsisa G3PD](http://olaria.ucpel.edu.br/rcunha/)
+ * [Autenticação Integrada Baseada em Serviço de Diretório LDAP - Erich Machado e Flavio Mori Junior - USP](https://www.linux.ime.usp.br/~cef/mac499-06/monografias/erich/html/ch01s05.html)
