@@ -15,6 +15,7 @@
 
 #### Tutoriais sobre LDAP
 * [Introdução ao LDAP - Mateus Muller](https://youtu.be/l8BwMlPRMF8)
+* [Instalando e Utilizando o LDAP - Mateus Muller](https://youtu.be/uaxGJs48nSY)
 
 #### Instalando um Servidor OpenLDAP e uma Interface Web de Gerência
 * [Tutorial em Inglês para Instalação do OpenLDAP e a Interface de Gerência phpLDAPadmin](https://computingforgeeks.com/install-and-configure-openldap-phpldapadmin-on-ubuntu/)
