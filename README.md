@@ -15,7 +15,7 @@
 
 #### Instalando o Servidor OpenLDAP e uma Interface Web de Gerência
 * [Tutorial em Portugues para instalar o OpenLDAP e a Interface de Gerência phpLDAPadmin](https://www.zentica-global.com/pt/zentica-blog/ver/como-instalar-openldap-e-phpldapadmin-no-ubuntu-server-20.04-60737ebe0b7a3)
-* [Tutorial em Inglês para Instalação do OpenLDAP e a Interface de Gerência phpLDAPadmin](https://idroot.us/install-openldap-ubuntu-20-04/)
+* [Tutorial em Inglês para Instalação do OpenLDAP e a Interface de Gerência phpLDAPadmin](https://computingforgeeks.com/install-and-configure-openldap-phpldapadmin-on-ubuntu/)
 
 **OBS: Quem instalar no Ubuntu Server, ou outra distro no modo servidor, deverá utilizar outro equipamento (ou máquina virtual) para fazer acesso a interface Web.**
 
