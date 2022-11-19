@@ -13,6 +13,9 @@
 
 ## Procedimento Exigido para a Entrega Final
 
+#### Tutoriais sobre LDAP
+* [Introdução ao LDAP - Mateus Muller](https://youtu.be/l8BwMlPRMF8)
+
 #### Instalando um Servidor OpenLDAP e uma Interface Web de Gerência
 * [Tutorial em Inglês para Instalação do OpenLDAP e a Interface de Gerência phpLDAPadmin](https://computingforgeeks.com/install-and-configure-openldap-phpldapadmin-on-ubuntu/)
 
